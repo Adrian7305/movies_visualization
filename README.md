@@ -2,9 +2,8 @@
 **Purpose**
 The purpose of this document is to provide a detailed Software Requirements
 Specification (SRS) for the Movie Dataset Analysis project. This project aims to analyze
-a movie dataset to gain insights into various aspects such as popular genres, highestgrossing movies, and the relationship between budget and revenue. The document is
-intended for the intern responsible for implementing the project and serves as a guide
-to understand the project requirements and objectives
+a movie dataset to gain insights into various aspects such as popular genres, highest grossing movies, and the relationship between budget and revenue.
+
 
 **Scope**
 The scope of this project includes the following tasks:
